@@ -35,7 +35,7 @@ The dataset includes information on a sample of students, including:
 1.  Clone the repository:
 
     ```
-    git clone [repository URL]
+    git clone https://github.com/sheetalp97/student-dropout-analysis
     cd student-dropout-analysis
     ```
 
